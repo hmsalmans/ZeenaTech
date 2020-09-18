@@ -1,0 +1,12 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    color: rgb(134, 235, 88);
+    text-align: center;
+    margin-top: 50px;
+    line-height: 25%;
+}
