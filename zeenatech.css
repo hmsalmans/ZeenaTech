@@ -2,6 +2,7 @@ body {
     background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Vesper Libre';
 }
 
 header {
@@ -9,4 +10,14 @@ header {
     text-align: center;
     margin-top: 50px;
     line-height: 25%;
+}
+navbar ul {
+    float: left;
+}
+.media {
+    color: orange;
+}
+.mt-0 {
+    color: yellow;
+
 }
