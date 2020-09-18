@@ -29,4 +29,6 @@ navbar ul {
 .media img {
     border-radius: 50%;
 }
- 
+a:hover {
+    color: rgb(134, 235, 88);
+}
