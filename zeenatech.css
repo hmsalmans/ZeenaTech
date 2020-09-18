@@ -15,9 +15,17 @@ navbar ul {
     float: left;
 }
 .media {
-    color: orange;
+    color: rgb(0, 255, 221);
+    margin: 10px;
 }
 .mt-0 {
-    color: yellow;
+    color: rgb(183, 226, 210);
 
+}
+.media h4 {
+    color: rgb(134, 235, 88);
+    float: right;
+}
+.media img {
+    border-radius: 50%;
 }
